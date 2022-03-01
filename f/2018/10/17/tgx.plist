@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://f.doown.tw/2018/10/17/TelegramX5.0.2.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://kzddck.com/xz/tp/tp.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://kzddck.com/xz/tp/tp.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.vlang.recPay</string>
+				<key>bundle-version</key>
+				<string>5.0.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>TGX</string>
+				<key>title</key>
+				<string>【TGX】验证ID请关注微信公众号：kzddck回复“369”获取</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
